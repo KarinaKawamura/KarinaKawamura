@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Welcome to my profile ✨
 
 <!--
 **KarinaKawamura/KarinaKawamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/KarinaKawamura">
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaKawamura&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Karina-J" height="30" width="40" src="">
+  
+</div>
